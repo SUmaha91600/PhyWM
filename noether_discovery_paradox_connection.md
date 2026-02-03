@@ -1,6 +1,6 @@
 # The Noether-Discovery Paradox Connection: A Mathematical Framework
 
-**Author:** Physics World Model Project
+**Author:** Mahadevan Sutharsan
 **Date:** February 3, 2026
 **Status:** Theoretical Foundation for Publication
 
